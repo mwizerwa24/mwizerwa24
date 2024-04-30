@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Kobe
-- 👀 I’m interested in codin'
-- 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to collaborate on YT
-- 📫 How to reach me @_kobe001
+- 👋 Hi, I’m Johnson
+- 🌱 I’m currently learning Vue JS & PHP
+- 📫 How to reach me @uknowjohnson on Instagram
 
 <!---
 mwizerwa24/mwizerwa24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
