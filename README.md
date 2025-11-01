@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Johnson
-- 🌱 I’m currently learning Vue JS & PHP
-- 📫 How to reach me @uknowjohnson on Instagram
+- Building cool stuff, one commit at a time
+- Code. Commit. Coffee. Repeat.
 
 <!---
 mwizerwa24/mwizerwa24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
